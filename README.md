@@ -1,2 +1,2 @@
 # HTML-PROJECT
-Auther - Nityasadhan Mahata
+Author - Nityasadhan Mahata
